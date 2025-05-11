@@ -50,11 +50,6 @@
   Designed using Django Templates and Bootstrap.  
   ➤ [View on GitHub](https://github.com/ka1antarBAB/Django-emoji-survey-project)
 
-- **🛠️ Simple PHP Admin Panel**  
-  Lightweight backend panel for small businesses written in PHP & MySQL.  
-  Currently under development during internship.  
-  ➤ [View on GitHub](https://github.com/ka1antarBAB/ClientLog-v1)
-
 - **🚀 Full CI/CD Polling System**  
   A full-featured Django polling application with complete CI/CD pipeline setup.  
   Configured using Docker, Jenkins, and GitLab with separate staging and production servers.  
